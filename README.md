@@ -3,7 +3,6 @@
 <h1>Karan Jha</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+production-ready+systems)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jha-k99999/)
