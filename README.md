@@ -104,6 +104,8 @@ Prototype collaborative coding platform — real-time pair programming with a mu
 - Currently at 70% completion — active development
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 Book-Pilot Manager — Library System
@@ -124,9 +126,9 @@ Desktop library management system with full CRUD and relational schema design.
 
 [![All Repositories](https://img.shields.io/badge/View_All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanjha000?tab=repositories)
 
-Currently working on expanding my backend portfolio with:
+Currently working on:
 
-- Microservices architecture projects
+- Microservices architecture
 - System design implementations
 - API performance benchmarking
 - Docker + deployment pipelines
