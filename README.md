@@ -103,6 +103,9 @@ Prototype collaborative coding platform — real-time pair programming with a mu
 - **Django REST Framework** backend with JWT auth and Redis
 - Currently at 70% completion — active development
 
+</td>
+<td width="50%" valign="top">
+
 ### 📚 Book-Pilot Manager — Library System
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanjha000/Book_Pilot_Manager)
 
