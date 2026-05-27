@@ -17,10 +17,12 @@
 
 ## About
 
-Backend Developer from Gwalior, India — B.Tech CSE graduate. I build secure, scalable REST APIs using Java and Spring Boot — with real authentication systems, structured access control, and measurable performance. My projects are production-ready, not just portfolio pieces.
+Backend developer who builds things that actually work in
+production. My focus is Java and Spring Boot — REST APIs,
+JWT authentication, and access control systems with real
+performance behind them.
 
-- 🎯 Seeking a **Backend Developer** role — available immediately
-- 🔧 Currently deepening expertise in **microservices** and **system design**
+- 🔧 Currently exploring microservices and distributed systems
 - 📍 Gwalior, Madhya Pradesh, India
 
 ---
@@ -142,8 +144,9 @@ Currently working on expanding my backend portfolio with:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=karanjha000&show_icons=true&theme=default&hide_border=true&title_color=2F80ED&icon_color=2F80ED&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjha000&layout=compact&theme=default&hide_border=true&title_color=2F80ED" />
+<img src="https://streak-stats.demolab.com?user=karanjha000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanjha000&layout=compact&theme=default&hide_border=true&title_color=2F80ED&cache_seconds=1800" />
 
 </div>
 
