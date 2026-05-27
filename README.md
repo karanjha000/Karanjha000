@@ -91,22 +91,17 @@ Full-stack finance system with enterprise-grade authentication and access contro
 </td>
 <td width="50%" valign="top">
 
-### 🤝 SkillConnect — Collaboration Platform
+### 🤝 SkillConnect — Collaborative Coding Platform
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanjha000/SkillConnect---Learn-Together-Solve-Together)
 
-`Django` `Python` `React` `SQLite` `Socket.IO`
+`Django` `DRF` `Node.js` `React` `Socket.IO` `Redis` `JWT`
 
-Peer-to-peer platform matching users based on skill exchange.
+Prototype collaborative coding platform — real-time pair programming with a multi-language execution engine.
 
-- Custom **matching logic** built around skill profiles
-- Search and filtering with structured **exception handling**
-- Real-time communication workflows via **Socket.IO**
-- Validation layers for reliable API performance
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Multi-language execution** — Python, JavaScript, Java, C, C++
+- **Real-time collaboration** via Socket.IO — live code sync across sessions
+- **Django REST Framework** backend with JWT auth and Redis
+- Currently at 70% completion — active development
 
 ### 📚 Book-Pilot Manager — Library System
 [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karanjha000/Book_Pilot_Manager)
