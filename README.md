@@ -162,7 +162,7 @@ Currently working on:
 
 | 🎓 Degree | Institution | Year | CGPA |
 |:---|:---|:---:|:---:|
-| B.Tech — Computer Science Engineering | Vikrant Institute of Technology, Gwalior | 2022–2026 | 6.96 |
+| B.Tech — Computer Science Engineering | Vikrant Institute of Technology, Gwalior | 2022–2026 | 6.83 |
 
 ---
 
@@ -172,7 +172,7 @@ Currently working on:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jha-k99999/)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanjhax12@gmail.com)
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ajHZQ5wMWO-Tpt81ZVMDQ-w8ZbBmkvHH/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nlNB4KWWrYtxV5VaWFgMR5KRIPUMxJl_/view?usp=drivesdk)
 
 <sub>📍 Gwalior, India &nbsp;·&nbsp; Open to remote opportunities</sub>
 
