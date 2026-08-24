@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jha-k99999/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanjhax12@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ajHZQ5wMWO-Tpt81ZVMDQ-w8ZbBmkvHH/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1nlNB4KWWrYtxV5VaWFgMR5KRIPUMxJl_/view?usp=drivesdk)
 [![Profile Views](https://komarev.com/ghpvc/?username=karanjha000&style=flat-square&color=2F80ED&label=Profile+Views)](https://github.com/karanjha000)
 
 </div>
@@ -24,8 +24,8 @@ Beyond backend development, I have experience building full-stack applications u
 
 I enjoy solving real-world problems, writing clean and maintainable code, and building software that performs reliably in production.
 
-- 🔧 Alongside backend and full-stack, I am actively exploring Artificial Intelligence to gain practical exposure, and identify meaningful opporunities where i can build useful products and solutions.
-- 📍 Gwalior, Madhya Pradesh, India
+- Alongside backend and full-stack, I am actively exploring Artificial Intelligence to gain practical exposure, and identify meaningful opporunities where i can build useful products and solutions.
+- Gwalior, Madhya Pradesh, India
 
 ---
 
