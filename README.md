@@ -1,7 +1,9 @@
 <div align="center">
 <h1>Karan Jha</h1>
 </div>
+
 ---
+
 ## About
 
 Java Backend Developer passionate about building scalable, secure, and production-ready applications.
@@ -13,7 +15,9 @@ Beyond backend development, I have experience building full-stack applications u
 I enjoy solving real-world problems, writing clean and maintainable code, and building software that performs reliably in production.
 
 Alongside backend and full-stack, I am actively exploring Artificial Intelligence to gain practical exposure, and identify meaningful opporunities where i can build useful products and solutions.
+
 ---
+
 <div align="center">
 
 **B.Tech CSE Graduate · Open to Backend Developer roles · Available immediately**
@@ -25,3 +29,5 @@ Alongside backend and full-stack, I am actively exploring Artificial Intelligenc
 <sub>📍 Gwalior, India &nbsp;·&nbsp; Open to remote opportunities</sub>
 
 </div>
+
+---
