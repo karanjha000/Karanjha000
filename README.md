@@ -14,6 +14,8 @@ I enjoy solving real-world problems, writing clean and maintainable code, and bu
 
 Alongside backend and full-stack, I am actively exploring Artificial Intelligence to gain practical exposure, and identify meaningful opporunities where i can build useful products and solutions.
 
+##
+
 <div align="center">
 
 **B.Tech CSE Graduate · Open to Backend Developer roles · Available immediately**
