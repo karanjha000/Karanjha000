@@ -20,9 +20,10 @@ Alongside backend and full-stack, I am actively exploring Artificial Intelligenc
 
 **B.Tech CSE Graduate · Open to Backend Developer roles · Available immediately**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-jha-k99999/)
-[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanjhax12@gmail.com)
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BGZOBRjxwQSFrPzGt445Uglgzeq6SJ53/view?usp=drivesdk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=social&logo=portfolio&logoColor=white)](https://karanjha.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karanjha000/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanjhax12@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1BGZOBRjxwQSFrPzGt445Uglgzeq6SJ53/view?usp=drivesdk)
 
 <sub>📍 Gwalior, India &nbsp;·&nbsp; Open to remote opportunities</sub>
 
